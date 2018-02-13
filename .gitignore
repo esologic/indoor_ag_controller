@@ -1,0 +1,17 @@
+.idea/
+.idea/*
+*.txt
+Thumbs.db
+*.pyc
+*.png
+core/scratch.py
+~$*
+*.p
+logs/*
+tests/logs/*
+core/scratch*.py
+core/scratch*.py
+build/*
+cython_modules/*.c
+cython_modules/*.cp36-win32.pyd
+*.ini
